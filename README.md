@@ -1,0 +1,2 @@
+# percptron-ufpa
+arquivos perceptron
